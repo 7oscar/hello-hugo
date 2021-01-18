@@ -1,9 +1,9 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "en-au"
 
 title = "Hello Hugo"
 name = "John Doe"
 description = "hello, world"
 
-theme = "mainroad"
+theme = "amperage"
 paginate = "10"
